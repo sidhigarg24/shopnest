@@ -16,7 +16,7 @@
 
 - **Real-World Functionality** – Full shopping flow with product variants, payments, and order tracking.
 - **Admin Dashboard Included** – A secure panel for managing products, orders, and customers.
-- **Multiple Payment Options** – Supports Razorpay, Stripe, and Cash on Delivery.
+- **Multiple Payment Options** – Supports Razorpay and Cash on Delivery.
 - **Authentication** – Secure JWT-based login for both users and admins.
 - **Production Deployment** – Hosted on Render with environment configurations.
 - **Modern UI/UX** – Built using Tailwind CSS and Vite for fast and responsive interfaces.

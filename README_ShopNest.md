@@ -32,7 +32,7 @@
 | Backend     | Node.js, Express.js                    |
 | Database    | MongoDB Atlas                          |
 | Auth        | JWT (JSON Web Token)                   |
-| Payments    | Stripe, Razorpay, Cash on Delivery     |
+| Payments    | Razorpay, Cash on Delivery             |
 | Storage     | Cloudinary, Multer                     |
 | Deployment  | Render (Frontend, Backend, Admin)      |
 

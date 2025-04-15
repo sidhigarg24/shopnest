@@ -92,7 +92,7 @@ STRIPE_SECRET_KEY=your_stripe_key
 - Select product size/variant and add to cart
 - Checkout using Razorpay, Stripe, or Cash on Delivery
 - Secure login and user-specific order history
-⚠️ Note: Stripe payment integration is currently a work in progress and may not function as expected. Please use Razorpay or Cash on Delivery for testing.
+- ⚠️ Note: Stripe payment integration is currently a work in progress and may not function as expected. Please use Razorpay or Cash on Delivery for testing.
 
 ### 🛠️ Admin Features
 

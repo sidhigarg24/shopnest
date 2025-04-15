@@ -48,11 +48,14 @@
   npm run dev
 
 **🔹 Admin Dashboard**
+- ```bash
 cd admin
 npm install
 npm run dev
 
+
 **🔹 Backend (API Server)**
+- ```bash
 cd backend
 npm install
 npm run server
